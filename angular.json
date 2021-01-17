@@ -168,5 +168,8 @@
       }
     }
   },
-  "defaultProject": "blog-site"
+  "defaultProject": "blog-site",
+  "cli": {
+    "analytics": "a799b788-768e-4c83-98de-6852c7ee9134"
+  }
 }
